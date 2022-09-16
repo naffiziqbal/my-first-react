@@ -2,8 +2,9 @@ import React from "react"
 export default function Header() {
     return (
         <nav className="nav container">
-            <div>
+            <div className=" logo">
                 <img src="./logo192.png" />
+                <h3>React Facts</h3>
             </div>
             <div>
                 <ul>

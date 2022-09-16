@@ -1,5 +1,7 @@
 body{
+    background: #0d083b;
     font-family: 'Roboto', sans-serif;
+    color: #ebebeb;
 }
 .container{
     max-width: 1200px;
@@ -8,6 +10,8 @@ body{
 }
 
 .nav{
+    padding: .5rem;
+    background: rgba(8, 15, 85, 0.938);
     display: flex;
     list-style: none;
     align-items: center;
